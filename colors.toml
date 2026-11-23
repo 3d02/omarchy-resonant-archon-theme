@@ -1,0 +1,32 @@
+# Resonant Archon — True OLED black with Control: Resonant crimson & moonlit bone accents
+mode = "dark"
+
+accent = "#ff2a4b"
+selection = "#3b1020"
+muted = "#7e6e8a"
+
+background = "#000000"
+darker_background = "#06040a"
+dark_background = "#0c0814"
+lighter_background = "#181124"
+
+foreground = "#ece8f2"
+dark_foreground = "#968aa6"
+light_foreground = "#d4cde0"
+bright_foreground = "#ffffff"
+
+red = "#ff2a4b"
+yellow = "#f2be5c"
+orange = "#eb7a44"
+green = "#6bc4a6"
+cyan = "#7ec4cf"
+blue = "#7d9be0"
+magenta = "#c27ee8"
+brown = "#7d4956"
+
+bright_red = "#ff637d"
+bright_yellow = "#ffd685"
+bright_green = "#8fe0c4"
+bright_cyan = "#a3e0ea"
+bright_blue = "#a3bcf2"
+bright_magenta = "#dba3f7"
